@@ -7,6 +7,17 @@ To configure EtherChannel (Port-Channel) between all links in your topology, whe
 
 ---
 
++----------------+--------------------+--------------------+--------------------+
+|    Device      | VLAN 2 IP Address   | HSRP Virtual IP    | HSRP Status        |
++----------------+--------------------+--------------------+--------------------+
+| Switch A       | 192.168.2.1         | 192.168.2.254      | Active (Priority 110) |
+| Switch B       | 192.168.2.2         | 192.168.2.254      | Standby (Priority 100) |
+| Switch C       | 192.168.2.3         | 192.168.2.254      | Standby (Priority 100) |
+| Switch D       | 192.168.2.4         | 192.168.2.254      | Standby (Priority 100) |
++----------------+--------------------+--------------------+--------------------+
+
+
+
 ### **Topology and VLAN**
 - VLAN: **2** (Trunk allowed VLAN)
 - Trunk Mode: **802.1Q**
