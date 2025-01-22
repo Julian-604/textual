@@ -7,6 +7,7 @@ To configure EtherChannel (Port-Channel) between all links in your topology, whe
 
 ---
 
+```bash
 +----------------+--------------------+--------------------+--------------------+
 |    Device      | VLAN 2 IP Address   | HSRP Virtual IP    | HSRP Status        |
 +----------------+--------------------+--------------------+--------------------+
@@ -15,7 +16,7 @@ To configure EtherChannel (Port-Channel) between all links in your topology, whe
 | Switch C       | 192.168.2.3         | 192.168.2.254      | Standby (Priority 100) |
 | Switch D       | 192.168.2.4         | 192.168.2.254      | Standby (Priority 100) |
 +----------------+--------------------+--------------------+--------------------+
-
+```
 
 
 ### **Topology and VLAN**
