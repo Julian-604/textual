@@ -1,4 +1,4 @@
-
+``
 
 +----------------+                     +----------------+
 |   Switch A     |---------------------|   Switch B     |
@@ -18,7 +18,9 @@
 |  VIP: .254     |                     |  VIP: .254     |
 +----------------+                     +----------------+
 
+``
 
+``
 sw a
 
 interface Vlan2
@@ -38,8 +40,9 @@ interface GigabitEthernet1/2
  description Link to Switch C
  switchport mode trunk
  switchport trunk allowed vlan 2
+``
 
-
+``
 sw b
 
 interface Vlan2
@@ -59,8 +62,9 @@ interface GigabitEthernet1/2
  description Link to Switch D
  switchport mode trunk
  switchport trunk allowed vlan 2
+``
 
-
+``
 sw c
 
 interface Vlan2
@@ -80,8 +84,9 @@ interface GigabitEthernet1/2
  description Link to Switch A
  switchport mode trunk
  switchport trunk allowed vlan 2
+``
 
-
+``
 sw d
 
 interface Vlan2
@@ -101,3 +106,4 @@ interface GigabitEthernet1/2
  description Link to Switch B
  switchport mode trunk
  switchport trunk allowed vlan 2
+ ``
