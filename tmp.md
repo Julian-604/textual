@@ -25,7 +25,7 @@ Virtual IP	192.168.2.254
 Switch A (VLAN 1)	192.168.2.1	
 Switch B (VLAN 2)	192.168.2.2	
 Switch C (VLAN 3)	192.168.2.3	
-Switch D (VLAN 4)	192.168.2.4	<img width="163" alt="image" src="https://github.com/user-attachments/assets/a5fe790e-1805-4339-b52e-429933340ef8" />
+Switch D (VLAN 4)	192.168.2.4	
 ```
 
 
