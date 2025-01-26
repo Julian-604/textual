@@ -1,3 +1,4 @@
+```bash
 Client                          Server
   |                                |
   |--- Initiate connection ------->|  (Requesting SSH session on port 22)
@@ -16,7 +17,7 @@ Client                          Server
   |                                |
   |====== Secure SSH Session ======|  (Encrypted data exchange)
   |                                |
-
+```
 
 
   Secure Shell (SSH) is a cryptographic network protocol that provides a secure way to access and manage remote systems over an insecure network. Here's an overview of how SSH works:
