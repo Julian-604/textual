@@ -1,6 +1,5 @@
 
-"Today, I’ll explain how I manage the network and Linux systems in my daily work, including handling tickets, receiving calls, and ensuring smooth operations."
-
+"Today, I will explain my role in managing the network and Linux systems, including my daily tasks such as handling tickets and responding to support calls."
 
 
 ### How to Start the Presentation
