@@ -1,3 +1,8 @@
+
+"Today, I’ll explain how I manage the network and Linux systems in my daily work, including handling tickets, receiving calls, and ensuring smooth operations."
+
+
+
 ### How to Start the Presentation
 
 1. **Greet the Audience**  
